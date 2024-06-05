@@ -1,0 +1,29 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.mouseWheelZoom": true,
+    "editor.mouseWheelScrollSensitivity": 2,
+    "window.closeWhenEmpty": false,
+    "window.restoreWindows": "all",
+    "editor.wordWrap": "on",
+    "update.mode": "manual",
+    "csharp.suppressDotnetInstallWarning": true,
+    "editor.selectionClipboard": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.unicodeHighlight.allowedCharacters": {
+        "—": true
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.empty.hint": "hidden",
+    "explorer.autoReveal": false,
+    "workbench.list.openMode": "doubleClick",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.compactFolders": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
