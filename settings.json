@@ -1,7 +1,5 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "editor.mouseWheelZoom": true,
     "editor.mouseWheelScrollSensitivity": 2,
     "window.closeWhenEmpty": false,
     "window.restoreWindows": "all",
@@ -25,5 +23,31 @@
     "explorer.compactFolders": false,
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
-    }
+    },
+    "workbench.reduceMotion": "on",
+    "window.customMenuBarAltFocus": false,
+    "window.menuBarVisibility": "visible",
+    "terminal.integrated.fontSize": 13,
+    "python.terminal.activateEnvironment": false,
+    "python.analysis.extraPaths": [
+    ],
+    "editor.mouseWheelZoom": true,
+    "launch": {
+        "configurations": [
+
+        ]
+    },
+    "workbench.editor.enablePreview": false,
+    
+    "[csharp]": {
+        "editor.maxTokenizationLineLength": 2500
+    },
+    "redhat.telemetry.enabled": true,
+    "python.defaultInterpreterPath": "/home/conneh/actual/development/python/pyvenv",
+    "workbench.editorAssociations": {
+        "*.dll": "default"
+    },
+    "godotTools.editorPath.godot4": "godot4",
+    "godot-dotnet-tools.executablePath": "godot4",
+    "godot.csharp.executablePath": "godot4",
 }
